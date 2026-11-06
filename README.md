@@ -6,6 +6,8 @@ Upload an RFP or plan set and get a narrated walkthrough video, a highlighted Pl
 
 <img src="assets/planbrief-guide.jpg" width="760" alt="PlanBrief guide page: a zoning compliance sheet with numbered boxes and a plain-English explanation">
 
+Sample output from a real 19-sheet Manhattan permit set: [Plan Reader's Guide (PDF)](https://github.com/Protrader1988/planbrief/releases/download/job-7a2d57d6-7197-4850-a692-c9602b1d194a/guide.pdf)
+
 #### Construction Compass
 Bid, RFP and permit lead engine for Ground Up Group. Scores new DOB filings and public bids each day, ranks the top opportunities and puts call, email and follow-up actions on every card. (Private; contact names blurred)
 
